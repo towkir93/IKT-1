@@ -15,3 +15,6 @@ more detail. Then, introduces the lab dates and the general timing of the
 lab over the whole winter term. explains the evaluation guidelines that will be
 used to judge if the lab has been passed successfully or not. Finally, the API denitions
 are given in Section
+
+
+Feel free to contact me if there is anything to know. -Towkir
